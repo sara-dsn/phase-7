@@ -1,13 +1,11 @@
-var a;
-window.prompt("Entrez un nombre: ");
-window.alert(a);
+var a=window.prompt("Entrez un nombre: ");
 if (a%2==0)
 {
     console.log("C'est une paire");
-    windows.alert(console.log)
+    windows.alert("c'est unne paire")
     
 }
 else
 {
-    window.console.log("Ce n'est pas une paire");
+    console.log("Ce n'est pas une paire");
 }
